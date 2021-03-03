@@ -1,15 +1,65 @@
 ---
 layout: post
-title: "About"
-author: "Chester"
+title: "About Man Son Coding"
+author: "ManSonCoding"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+
+## 저는요 
+
+- **아주대학교 국어국문학과** 졸업함.
+- 국어국문학과 **ICT융합전공**으로 코딩을 처음 접함.
+- 그것도 모자라서 **인문사회데이터복수전공**을 함. (욕심이 많음)
+- 생각보다 할게 많은걸 깨달음
+- 2020-2학기에 한국정보화진흥원에서 **빅데이터 인턴**에 참여함 (인천 중구청 근무 )
+- 생각보다 데이터 분석과 **글쓰기**가 잘 맞다고 느낌.
+- 남에게 쉽게 설명해주는걸 좋아함, 내가 설명한 말을 남이 이해하면 카타르시스를 느낌.
+- 아직 배울게 많음
+
+## 능력
+
+- Python
+
+  - pandas 패키지 활용
+
+  - numpy 패키지 활용
+
+  - sklearn 패키지 활용
+
+  - keras 패키지 활용
+
+  - 기계학습 및 자연어분석
+
+  - 데이터 전처리 및 수집(크롤링)
+
+  - 빠른 검색능력
+
+    
+
+- R
+
+- GIS(QGIS)
+
+- 글쓰기 능력 - 글쓰기를 좋아함
+
+  
+
+## 프로젝트
+
+- 2020 서울시 전기차 입지선정(한국 정보화진흥원 인턴 교육 프로젝트 중)
+- 2020 빅데이터 인턴 - 공공와이파이 입지선정
+- 2020 빅데이터 인턴 - 민원 데이터를 활용한 자동분류기 개발
+- 2020 빅데이터 인턴 - 교통 민원을 활용한 우선처리지역 도출
+- 2021(예정)
+- 2021(예정)
+- 2021(예정)
+
+
 
 ## Contribute
+
 Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
 
 Thanks for reading!
