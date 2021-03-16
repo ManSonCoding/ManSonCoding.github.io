@@ -5,7 +5,9 @@ author: "ManSonCoding"
 permalink: /about/
 ---
 
+# contact
 
+- jhson815@ajou.ac.kr
 
 ## 저는요 
 
